@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+enterprise-grade+systems+that+scale+to+millions.;Spring+Boot+%7C+React+%7C+AWS+%7C+Microservices+%7C+Kafka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+enterprise-grade+systems+that+scale+to+millions.;Spring+Boot+%7C+React+%7C+AWS+%7C+Microservices+%7C+Kafka" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,27 +26,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```java
-@RestController
-public class DiwakarKarna {
-
-    @Value("Senior Java Full-Stack Developer")
-    private String role;
-
-    @Value("Irving, TX")
-    private String location;
-
-    private List<String> stack = List.of(
-        "Java", "Spring Boot", "React", "AWS",
-        "Kafka", "Microservices", "Docker", "Kubernetes"
-    );
-
-    public String buildTheFuture() {
-        return "Scalable, Secure & Enterprise-Grade";
-    }
-}
-```
 
 > 🎯 **5+ years** crafting microservices, REST APIs, and cloud-native applications for **United Airlines**, **Barclays**, and **Kaiser Permanente**. MS in Computer & Information Science from **Southern Arkansas University** (2025).
 
