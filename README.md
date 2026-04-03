@@ -16,10 +16,10 @@
 <br/>
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-diwakarreddykarna.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diwakarreddykarna.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-diwakarreddykarna.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diwakarreddykarna.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diwakarreddyk11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakarreddyk11)
 [![Email](https://img.shields.io/badge/Email-diwakarreddy3x@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwakarreddy3x@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2DD4BF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://diwakarreddykarna.github.io/Diwakar_Reddy_Karna_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2DD4BF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://diwakarreddykarna.github.io/portfolio/Diwakar_Reddy_Karna_Resume.pdf)
 
 </div>
 
@@ -200,7 +200,7 @@ Reduced clinician task time by **30%** · **99.99%** HIPAA security uptime · Sa
 
 <a href="https://www.linkedin.com/in/diwakarreddyk11"><img src="https://img.shields.io/badge/-Diwakar_Reddy_Karna-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:diwakarreddy3x@gmail.com"><img src="https://img.shields.io/badge/-diwakarreddy3x@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://diwakarreddykarna.github.io"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<a href="https://diwakarreddykarna.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 
 <br/><br/>
 
