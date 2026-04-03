@@ -1,4 +1,4 @@
-<!-- # DIWAKAR REDDY KARNA - Senior Java Full-Stack Developer
+# DIWAKAR REDDY KARNA - Senior Java Full-Stack Developer
 
 <div align="center">
 
@@ -29,78 +29,30 @@ public class DiwakarReddyKarna {
     public String currentRole = "Senior Java Full-Stack Developer";
     public String[] passions  = {"Scalable Systems", "Architecture", "Mentoring"};
     public String location    = "Irving, TX";
-
-    public void buildImpactfulSoftware() {
-        while(true) {
-            analyze();
-            code();
-            optimize();
-            deploy();
-        }
-    }
 }
 ```
 
 ---
 
-## Enterprise Impact at a Glance
+## Enterprise Impact
 
 | Metric | Result | Impact |
 | :--- | :--- | :--- |
-| **User Base** | 50,000+ daily bookings | Scaled United Airlines' enterprise mileage system |
-| **Performance** | 45% reduction in error rates | Optimized payment gateways and legacy workflows |
-| **Reliability** | 99.99% system uptime | Managed high-availability microservices on AWS |
-| **Efficiency** | 20% faster deployment | Implemented CI/CD pipelines & automated testing |
+| **User Base** | 50,000+ daily bookings | Scaled enterprise mileage systems |
+| **Performance** | 45% reduction in error rates | Optimized payment gateways |
+| **Reliability** | 99.99% system uptime | Managed high-availability services |
 
 ---
 
-## Tech Stack & Expertise
+## Tech Stack
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>p>
+- **Languages**: Java, JavaScript, TypeScript
+- - **Frameworks**: Spring Boot, React, Node.js
+  - - **Tools**: AWS, Docker, Kubernetes, Kafka, Redis
+   
+    - ---
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-          <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>p>
-
-### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>p>
-
----
-
-## GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwakarreddykarna&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarreddykarna&layout=compact&theme=vue-dark&hide_border=true" height="170" />
-</div>div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarreddykarna&theme=vue-dark&hide_border=true" />
-</div>div>
-
-### Contribution Snake
-<img src="https://raw.githubusercontent.com/diwakarreddykarna/diwakarreddykarna/main/github-contribution-grid-snake.svg" width="100%" />
-
----
-
-<p align="center">
-  <b>Let's build something amazing together!</b>b><br/>
-    <a href="mailto:diwakarreddy3x@gmail.com">Contact Me</a>a> </b>
+    <p align="center">
+      <a href="mailto:diwakarreddy3x@gmail.com">Contact</a>a> | <a href="https://diwakarreddykarna.github.io">Portfolio</a>a> | <a href="https://www.linkedin.com/in/diwakarreddyk11">LinkedIn</a>a>
+    </p>p>
+    
