@@ -1,4 +1,4 @@
-<![CDATA[<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                      DIWAKAR REDDY KARNA                            -->
 <!--               Senior Java Full-Stack Developer                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -232,4 +232,4 @@ Reduced clinician task time by **30%** · **99.99%** HIPAA security uptime · Sa
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:6366f1,100:8b5cf6&height=120&section=footer" width="100%" />
 
 </div>
-]]>
+
