@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                      DIWAKAR REDDY KARNA                            -->
-<!--               Senior Java Full-Stack Developer                       -->
+<!--               Java Full-Stack Developer | GenAI                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:6366f1,100:8b5cf6&height=220&section=header&text=Diwakar%20Reddy%20Karna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Java%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:6366f1,100:8b5cf6&height=220&section=header&text=Diwakar%20Reddy%20Karna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20Python%20%7C%20GenAI&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+enterprise-grade+systems+that+scale+to+millions.;Spring+Boot+%7C+React+%7C+AWS+%7C+Microservices+%7C+Kafka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+GenAI-enabled+enterprise+platforms+%40+Citi.;Spring+Boot+%7C+Python+%7C+React+%7C+AWS+%7C+Kafka+%7C+LLM" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-> 🎯 **5+ years** crafting microservices, REST APIs, and cloud-native applications for **United Airlines**, **Barclays**, and **Kaiser Permanente**. MS in Computer & Information Science from **Southern Arkansas University** (2025).
+> 🎯 **5+ years** crafting microservices, REST APIs, GenAI-enabled platforms, and cloud-native applications for **Citi**, **United Airlines**, and **Barclays**. Currently building a **GenAI-powered enterprise risk assessment platform** at Citi using Java 17, Spring Boot, Python, and LLM integrations. MS in Computer & Information Science from **Southern Arkansas University** (2025).
 
 ---
 
@@ -37,40 +37,42 @@
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ United Airlines
-**Java Full-Stack Developer** · Irving, TX  
-`Jun 2024 – Present`
+### 🏦 Citi ⚡ *Current*
+**Java Full-Stack Developer** · Irving, TX
+`Apr 2026 – Present`
 
-- ⚡ Spring Boot REST APIs handling **50K+ peak-hour bookings** (P95 < 50ms)
-- 📊 Reduced data inconsistencies by **45%** via Apache Kafka validation streams
-- 🖥️ React flight-tracking dashboards → **30%** fewer lost-luggage claims
-- ☁️ AWS Lambda + Cognito + DynamoDB → **20%** infra cost reduction
+- 🤖 Built **GenAI-enabled enterprise risk assessment platform** using Java 17, Spring Boot & Python powering LLM-driven workflows
+- ⚡ Designed scalable REST APIs and gateway/worker services for **asynchronous assessment processing**
+- 🔐 Developed complex **authorization & entitlement logic** using org hierarchy, legal-entity & risk-category rules
+- ☁️ Integrated Kafka event-driven processing, OpenShift/Kubernetes deployments, SonarQube & OpenTelemetry
 
-`Spring Boot` `React` `PostgreSQL` `AWS` `Kafka` `Docker` `MongoDB` `Redis`
+`Java 17` `Spring Boot` `Python` `GenAI/LLM` `Kafka` `PostgreSQL` `OpenShift` `OpenTelemetry`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Barclays
-**Java Full-Stack Developer** · Bengaluru, India  
-`Jun 2021 – Jul 2023`
+### ✈️ United Airlines
+**Java Full-Stack Developer** · Irving, TX
+`Jun 2024 – Apr 2026`
 
-- 🗄️ Cut Oracle query latency by **35%** via JPA/Hibernate indexing
-- ✅ Achieved **90%+** test coverage with SonarQube quality gates
-- 🔐 Boosted fraud detection accuracy by **8%** via Kafka ML models
-- 🚀 Releases accelerated from quarterly to **bi-weekly** with CI/CD
+- ⚡ Spring Boot REST APIs handling **50K+ peak-hour bookings** (P95 < 50ms)
+- 📊 Reduced data inconsistencies by **45%** via Apache Kafka validation streams
+- 🖥️ React flight-tracking dashboards integrated with AWS Lambda, Cognito & DynamoDB
+- 🚀 Migrated legacy WebSphere to Docker microservices, improving scalability by **40%**
 
-`Spring Boot` `Angular` `Oracle` `Azure` `Kafka` `Jenkins` `ELK Stack`
+`Spring Boot` `React` `PostgreSQL` `AWS` `Kafka` `Docker` `GitLab CI`
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### 🏥 Kaiser Permanente
-**Software Engineer** · Bengaluru, India · `Jun 2019 – May 2021`
+### 🏦 Barclays
+**Java Full-Stack Developer** · Bengaluru, India · `Jun 2021 – Jul 2023`
 
-Reduced clinician task time by **30%** · **99.99%** HIPAA security uptime · Saved **20+ hrs/week** with PDF generation · Cut no-shows by **15%**
+Cut Oracle query latency by **35%** · Achieved **90%+** test coverage · Boosted fraud detection accuracy by **8%** via Kafka ML models · Accelerated releases from quarterly to **bi-weekly**
+
+`Spring Boot` `Angular` `Oracle` `Azure` `Kafka` `Jenkins` `ELK Stack`
 
 </td>
 </tr>
@@ -82,9 +84,9 @@ Reduced clinician task time by **30%** · **99.99%** HIPAA security uptime · Sa
 
 <div align="center">
 
-| 🚀 50K+ | 📉 45% | ⏱️ < 50ms | 🛡️ 99.99% | ✅ 90%+ | 🏢 3 |
+| 🤖 GenAI | 🚀 50K+ | 📉 45% | ⏱️ < 50ms | ✅ 90%+ | 🏢 3 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Peak Bookings/Day | Less Data Errors | API Latency (P95) | Security Uptime | Test Coverage | Enterprise Clients |
+| Risk Platform | Peak Bookings/Day | Less Data Errors | API Latency (P95) | Test Coverage | Enterprise Clients |
 
 </div>
 
@@ -113,6 +115,12 @@ Reduced clinician task time by **30%** · **99.99%** HIPAA security uptime · Sa
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
+### Generative AI & Python
+![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -124,15 +132,18 @@ Reduced clinician task time by **30%** · **99.99%** HIPAA security uptime · Sa
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Messaging & Monitoring
+### Messaging & Observability
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
